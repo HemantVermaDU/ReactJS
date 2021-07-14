@@ -1,0 +1,17 @@
+body{
+    background:#833ab4;
+    text-align:center;
+    background: -webkit-linear-gradient(to right,#2980b9,#6dd5fa,#ffffff);
+    background: linear-gradient(to right,#2980b9,#6dd5fa,#ffffff);
+    color: #fff;
+}
+.button{
+    padding: 10px 25px;
+    margin: 5px;
+    background: #2980b9;
+    border-radius: 3px; 
+    color: #fff;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+}
